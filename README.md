@@ -7,7 +7,7 @@ Output directory will have the same name as the phar without extension
 phar-unpack.sh filename.phar
 ```
 
-Requirements
+##Requirements
 
 * Linux
 * PHP
